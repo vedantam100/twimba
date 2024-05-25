@@ -148,6 +148,11 @@ function getFeedHtml(){
 function render(){
     document.getElementById('feed').innerHTML = getFeedHtml()
 }
+{
+    consol.log(
+        
+    )
+}
 
 render()
 
